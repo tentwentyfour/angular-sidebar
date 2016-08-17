@@ -1,4 +1,4 @@
-module.exports = require('angular')
+angular
   .module('ngSidebarModule', [])
   .directive('ngSidebar', ngSidebar)
   .name
