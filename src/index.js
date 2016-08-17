@@ -1,4 +1,4 @@
-(function () {
+;(function () {
   angular
     .module('ngSidebarModule', [])
     .directive('ngSidebar', ngSidebar)
